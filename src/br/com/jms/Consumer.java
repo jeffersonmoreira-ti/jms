@@ -1,3 +1,8 @@
+/**
+ * @author jeffersonmoreira
+ * 
+ */
+
 package br.com.jms;
 
 import java.util.Scanner;
@@ -6,7 +11,6 @@ import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
 import javax.jms.Destination;
 import javax.jms.MessageConsumer;
-import javax.jms.Queue;
 import javax.jms.Session;
 import javax.naming.InitialContext;
 
